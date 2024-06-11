@@ -1,5 +1,7 @@
 # Far Away (Travel List) 🏝️✈️
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/90693860-5318-4a5f-9935-c61daecfd782/deploy-status)](https://app.netlify.com/sites/fulgur-vividus-far-away/deploys)
+
 ## Overview 🤓
 
 Far Away is a React application developed using `npx create-react-app`. This project is a travel packing list that allows users to add, remove, and clear items from their packing list. The application serves as a practical example for understanding and practicing state management, event handling, and building interactive components in React. Each component is organized in its own file for modularity and maintainability.
